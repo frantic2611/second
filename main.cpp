@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int a, b, c, d;
+
 
 
 void dataCout(int a, int b, int c, int d, int ch, int zn);
